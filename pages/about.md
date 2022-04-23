@@ -24,6 +24,6 @@ title: 关于我
 
 - QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1483038101
 
-- Email&nbsp;: 1483018101@qq.com
+- Email&nbsp;: [1483018101@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=XWxpZW5tbmVsbWwdLCxzPjIw)
 
 - GitHub: [https://github.com/hsichien](https://github.com/hsichien)
