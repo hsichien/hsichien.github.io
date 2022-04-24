@@ -10,7 +10,6 @@ title: 关于我
 主题是偷的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)
 
 ## 相关技能
-
 - 熟悉 Java 等后端语言
 
 - 后端框架 Spring，Hibernate，JFinal，Mybatis 略有了解
@@ -21,7 +20,6 @@ title: 关于我
 
 
 ## 联系我
-
 - QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1483038101
 
 - Email&nbsp;: [1483018101@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=XWxpZW5tbmVsbWwdLCxzPjIw)
