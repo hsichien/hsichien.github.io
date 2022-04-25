@@ -1,2 +1,2 @@
 
-![?](https://www.1209.work/)
+[?](https://www.1209.work/)
