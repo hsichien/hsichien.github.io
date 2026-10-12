@@ -5,7 +5,7 @@ title: HsiChien's Blog
 description: HsiChien的个人博客
 keywords: HsiChien,Blog
 author: HsiChien
-footerText: 'Copyright © 2026 HsiChien Incorporated. All rights reserved.'
+footerText: 'HsiChien Incorporated. All rights reserved.'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
