@@ -11,13 +11,7 @@ title: 关于我
 
 ## 相关技能
 
-- 熟悉 Java 等后端语言
-
-- 后端框架 Spring，Hibernate，JFinal，Mybatis 略有了解
-
-- 数据库方面能熟练使用 MySQL
-
-- Linux 的简单使用，各种服务的搭建
+- 熟悉 睡觉 等后端语言
 
 
 ## 联系我
